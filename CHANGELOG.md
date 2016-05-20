@@ -19,5 +19,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-[Unreleased]: https://github.com/JonDotsoy/td-polyfill/compare/v0.0.2...HEAD
+[Unreleased]: https://github.com/JonDotsoy/td-polyfill/compare/v0.0.2...develop
 [0.0.2]: https://github.com/JonDotsoy/td-polyfill/compare/bf03781416bf21a4dc0e43bd2ea602896b65ae66...v0.0.2
